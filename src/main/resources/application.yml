@@ -1,0 +1,4 @@
+swagger:
+  basePackage: "br.com.getnet.getpay.{package}"
+  moduleName: { name }
+  version: @version@
